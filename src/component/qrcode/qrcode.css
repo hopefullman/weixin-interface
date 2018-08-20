@@ -1,0 +1,10 @@
+section>div{
+  border: 70px solid rgb(104, 144, 239)!important;
+  box-shadow: rgba(149, 203, 78, 0.8) 0px 0px 15px 1px inset!important;
+}
+.qrcode{
+   background-color: rgb(104, 144, 239)!important;
+}
+
+
+

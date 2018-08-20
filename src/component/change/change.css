@@ -1,0 +1,25 @@
+
+.left{
+  color: '#fff';
+}
+.navAreaClass{
+  color: '#f00';
+}
+.navigator .left_item{
+  background-image: url('../../img/1.png')!important;
+  background-size: auto 16px !important;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.chengee input::-webkit-input-placeholder {
+         /* placeholder颜色  */
+        color: #aab2bd;
+        /* placeholder字体大小  */
+        font-size: 16px;
+         /* placeholder位置  */
+         letter-spacing: 2px;
+         
+  }

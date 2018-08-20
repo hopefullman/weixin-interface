@@ -1,0 +1,16 @@
+
+#root>div{
+	background-image:url("../.././img/back.jpg"); 
+	background-size: 100% 52%;
+	background-repeat: no-repeat;
+ }
+.loginn input::-webkit-input-placeholder {
+         /* placeholder颜色  */
+        color: #aab2bd;
+        /* placeholder字体大小  */
+        font-size: 17px;
+         /* placeholder位置  */
+         letter-spacing: 2px;
+         
+             
+        }
